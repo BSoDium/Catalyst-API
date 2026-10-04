@@ -2,6 +2,9 @@
 
 This repository contains the source code of the API for my eportfolio/landing page, hosted at [bsodium.fr](https://bsodium.fr) on Vercel.
 
+> [!WARNING]
+> This repository is being discontinued in favour of a monorepo architecture, which is hosted at https://github.com/BSoDium/Catalyst so this code won't get any new updates.
+
 ## Usage
 
 Install all required dependencies with the following command:
